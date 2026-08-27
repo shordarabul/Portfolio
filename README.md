@@ -26,7 +26,7 @@ Computer Science graduate, software developer, and enterprise IT support special
 
 - Email: [abulmohsinshordar@gmail.com](mailto:abulmohsinshordar@gmail.com)
 - Phone: [(313) 985-6681](tel:+13139856681)
-- GitHub: [github.com/shordarabul](https://github.com/shordarabul)
+- GitHub: [github.com/shordarabul](https://github.com/shordarabul)\n- LinkedIn: [Abul Shordar](https://www.linkedin.com/in/abul-shordar-88737013b/)
 - Location: Hamtramck, Michigan
 
 ## Portfolio technology
