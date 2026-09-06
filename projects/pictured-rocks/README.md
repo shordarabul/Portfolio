@@ -6,6 +6,12 @@ A responsive multi-page tourism website developed by **Abul Shordar** as a Net-C
 
 [View the project on GitHub Pages](https://shordarabul.github.io/Portfolio/projects/pictured-rocks/)
 
+## Video walkthrough
+
+[Watch the full project walkthrough on YouTube](https://youtu.be/FB2uM61rcrM)
+
+> For recruiter access, the YouTube visibility should be set to **Unlisted** rather than Private.
+
 ## Features
 
 - Multi-page semantic HTML structure
